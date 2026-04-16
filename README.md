@@ -8,14 +8,14 @@ I am a data enthusiast specializing in SQL, Python, Rstudio, and Tableau. I rece
 ## 📂 Featured Projects
 
 ### 📊 [Google Data Analytics Capstone](https://github.com/Glass3988/Google-Data-Analytics-Capstone)
-* **Goal:** Identify how the behavior of members and non-members to a bicycle renting company differ for marketing purposes
+* **Goal:** Identify how the behavior of members and non-members to a bicycle renting company differ for marketing purposes.
 * **Tools:** RStudio
 * **Key Result:** Members tend to rent bikes within the city to get to and from work, while non-members tend to rent bikes on weekends for recreational purposes.
 
 ### 📈 [Google Advanced Data Anlytics Capstone](https://github.com/Glass3988/Google-Advanced-Data-Analytics-Capstone)
-* **Goal:** Find out why employees are leaving the company
+* **Goal:** Discover why employees are so dissatisfied and are leaving their company.
 * **Tools:** Python, Pandas, Matplotlib, xgboost, sklearn
-* **Key Results:** My decision tree and random forest models both identified the same top 4 features as to why employees are so dissatisfied
+* **Key Results:** My decision tree and random forest models both identified Last Evaluation, Number of Assigned Projects, Years Worked at the Company, and Overworked as the four most important features contributing to employee dissatisfaction.
 
 <!--
 **Glass3988/Glass3988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
