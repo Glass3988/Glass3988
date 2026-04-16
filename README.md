@@ -8,12 +8,12 @@ I am a data enthusiast specializing in SQL, Python, and Tableau. I recently comp
 ## 📂 Featured Projects
 
 ### 📊 [Google Data Analytics Capstone](https://github.com/Glass3988/Google-Data-Analytics-Capstone)
-* **Goal:** [Identify how the behavior of members and non-members to a bicycle renting company differ for marketing purposes]
+* **Goal:** Identify how the behavior of members and non-members to a bicycle renting company differ for marketing purposes
 * **Tools:** RStudio
-* **Key Result:** [Members tend to rent bikes within the city to get to and from work, while non-members tend to rent bikes on weekends for recreational purposes.]
+* **Key Result:** Members tend to rent bikes within the city to get to and from work, while non-members tend to rent bikes on weekends for recreational purposes.
 
 ### 📈 [Google Advanced Data Anlytics Capstone](https://github.com/Glass3988/Google-Advanced-Data-Analytics-Capstone)
-* **Goal:** [Find out why employees are leaving the company]
+* **Goal:** Find out why employees are leaving the company
 * **Tools:** Python, Pandas, Matplotlib, xgboost, sklearn
 * **Key Results:** My decision tree and random forest models both identified the same top 4 features as to why employees are so dissatisfied
 
