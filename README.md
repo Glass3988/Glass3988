@@ -1,7 +1,7 @@
 # Hi, I'm William Aidan Whyte! 👋
 ### Data Analyst | Google Certified
 
-I am a data enthusiast specializing in SQL, Python, and Tableau. I recently completed the Google Advanced Data Analytics Professional Certificate.
+I am a data enthusiast specializing in SQL, Python, Rstudio, and Tableau. I recently completed the Google Advanced Data Analytics Professional Certificate.
 
 ---
 
